@@ -1,7 +1,7 @@
-source 'http://rubygems.org'
+source 'https://ruby.taobao.org'
 
 gem 'rails', '3.0.5'
-
+gem 'rake', '~>0.8.7'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
